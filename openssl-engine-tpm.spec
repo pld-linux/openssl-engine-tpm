@@ -1,12 +1,12 @@
 Summary:	TPM engine for OpenSSL
 Summary(pl.UTF-8):	Silnik TPM dla OpenSSL-a
 Name:		openssl-engine-tpm
-Version:	0.4.1
+Version:	0.4.2
 Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/trousers/openssl_tpm_engine-%{version}.tar.gz
-# Source0-md5:	05d8fce1dc84c1c492a2e6a21db6616a
+# Source0-md5:	5bc8d66399e517dde25ff55ce4c6560f
 URL:		http://trousers.sourceforge.net/
 BuildRequires:	openssl-devel >= 0.9.8
 BuildRequires:	trousers-devel
