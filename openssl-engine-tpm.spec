@@ -2,7 +2,7 @@ Summary:	TPM engine for OpenSSL
 Summary(pl.UTF-8):	Silnik TPM dla OpenSSL-a
 Name:		openssl-engine-tpm
 Version:	0.4.2
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/trousers/openssl_tpm_engine-%{version}.tar.gz
